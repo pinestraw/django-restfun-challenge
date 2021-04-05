@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Latte",
+    "values": ["skim", "semi", "whole"]
+  },
+  {
+    "name": "Cappuccino",
+    "values": ["small", "medium", "large"]
+  },
+  {
+    "name": "Espresso",
+    "values": ["single", "double", "triple"]
+  },
+  {
+    "name": "Tea",
+    "values": []
+  },
+  {
+    "name": "Hot chocolate",
+    "values": ["small", "medium", "large"]
+  },
+  {
+    "name": "Cookie",
+    "values": ["chocolate chip", "ginger"]
+  },
+  {
+    "name": "All",
+    "values": ["take away", "in shop"]
+  }
+]

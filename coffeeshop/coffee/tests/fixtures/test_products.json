@@ -1,0 +1,17 @@
+[
+  {
+    "name": "test coffee",
+    "price": 10,
+    "product_option": 1
+  },
+  {
+    "name": "test coffee 2",
+    "price": 12,
+    "product_option": 2
+  },
+  {
+    "name": "test tea",
+    "price": 12,
+    "product_option": 4
+  }
+]
